@@ -338,6 +338,7 @@ ul li{
   align-items: center;
   padding: 100px 0;
   gap: 2rem ;
+
 }
 
 .text{
@@ -358,6 +359,7 @@ ul li{
 .download-btns{
   display: flex;
   gap: 2rem;
+    flex-wrap: wrap;
 }
 .download-btns1{
   display: flex;
